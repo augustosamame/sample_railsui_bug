@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/getrailsui/railsui.git
-  revision: 8d80d6ebd2f2badaa9e0a530eda1d79379a1611e
+  revision: 080afd683533c3011663bb594ea74faffaa5f974
   branch: main
   specs:
-    railsui (2.1.1)
+    railsui (2.1.2)
       cssbundling-rails
       devise
       inline_svg (>= 1.9)
@@ -164,7 +164,7 @@ GEM
       activesupport (>= 3.0)
       nokogiri (>= 1.6)
     io-console (0.7.2)
-    irb (1.14.0)
+    irb (1.14.1)
       rdoc (>= 4.0.0)
       reline (>= 0.4.2)
     jsbundling-rails (1.3.1)
